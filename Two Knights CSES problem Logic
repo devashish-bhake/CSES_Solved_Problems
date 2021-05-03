@@ -1,0 +1,3 @@
+The Logic Behing it is:
+((n^2)(n^2 - 1))/2 - (4(n-1)(n-2))
+The above formula is the minimum number of possibilites of a (n x n) chessboard to not to attack each other.
